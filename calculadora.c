@@ -2,6 +2,7 @@
 #include <math.h>
 
 float suma(float, float);
+float div(float, float);
 int main() 
 {
 float a,b;
@@ -25,4 +26,8 @@ case 4:
 float suma(float a, float b)
   {
   return(a+b);
+  }
+float div(float a, float b)
+  {
+  return(a/b);
   }
