@@ -22,6 +22,7 @@ case 3:
 case 4:
   div(a,b);
   break;
+    default: puts("numero invalido");
   {
 }
 float suma(float a, float b)
@@ -32,3 +33,4 @@ float div(float a, float b)
   {
   return(a/b);
   }
+ramassss
